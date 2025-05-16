@@ -1,9 +1,0 @@
-{
-  "name": "gpt-ai-assistant",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@line/bot-sdk": "^7.5.1",
-    "node-fetch": "^2.6.7"
-  }
-}
